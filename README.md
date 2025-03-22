@@ -60,3 +60,21 @@ Si vous avez des questions, des suggestions ou si vous souhaitez collaborer sur 
 ## 📜 Licence  
 
 Ce projet est distribué sous la licence **MIT**, ce qui signifie que vous êtes libre de l'utiliser, le modifier et le partager sous certaines conditions.  
+
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/2MJ-DEV">
+                    <img src="https://avatars.githubusercontent.com/u/146131402?v=4" width="100;" alt="2MJ-DEV"/>
+                    <br />
+                    <sub><b>JULES MUKADI</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
